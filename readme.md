@@ -4,7 +4,7 @@
 
 > Listing some playful open-source's challenges of jobs to test your knowledge
 
-[![license](https://img.shields.io/github/license/VSPPedro/backend-challenges.svg)](/LICENSE)
+[![license](https://img.shields.io/github/license/VSPPedro/backend-challenges.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/VSPPedro/backend-challenges.svg)](https://github.com/VSPPedro/backend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
@@ -21,6 +21,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## License
 
-[MIT](/LICENSE) &copy; Pedro Paiva
+[MIT](/license) &copy; Pedro Paiva
 
 This project was based at [Frontend Challenges](https://github.com/LFeh/frontend-challenges) made by [Felipe Fialho](https://github.com/LFeh).
