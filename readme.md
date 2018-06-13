@@ -13,7 +13,9 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 | | Company | Stack | Test
 |--|--|--|--
+| :brazil: | [Conductor](http://www.conductor.com.br/) | - | [Code →](https://github.com/devconductor/desafio2)
 | :us: | [Olist](https://olist.com/) | Python, Elixir or Go | [Code →](https://github.com/olist/work-at-olist)
+
 
 
 ## License
