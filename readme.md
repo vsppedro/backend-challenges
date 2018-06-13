@@ -13,7 +13,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 | | Company | Stack | Test
 |--|--|--|--
-| :brazil: | [Olist](https://olist.com/) | Python, Elixir or Go | [Code →](https://github.com/olist/work-at-olist)
+| :us: | [Olist](https://olist.com/) | Python, Elixir or Go | [Code →](https://github.com/olist/work-at-olist)
 
 
 ## License
