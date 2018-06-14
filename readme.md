@@ -23,4 +23,4 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 [MIT](/license) &copy; Pedro Paiva
 
-This project was based at [Frontend Challenges](https://github.com/LFeh/frontend-challenges) made by [Felipe Fialho](https://github.com/LFeh).
+This project was based on [Frontend Challenges](https://github.com/LFeh/frontend-challenges) made by [Felipe Fialho](https://github.com/LFeh).
