@@ -11,11 +11,11 @@ The main objective of repository is testing your knowledge using real jobs chall
 
 Follows some playful (just open-source! :warning:) challenges of jobs.
 
-| | Company | Stack | Test
-|--|--|--|--
-| :brazil: | [Conductor](http://www.conductor.com.br/) | Java | [Code →](https://github.com/devconductor/desafio2)
-| :brazil: | [Conductor](http://www.conductor.com.br/) | Java | [Code →](https://github.com/devconductor/desafio-arquivo)
-| :brazil: | [Olist](https://olist.com/) | Python, Elixir or Go | [Code →](https://github.com/olist/work-at-olist)
+| | Company | Stack | Remote? | Test
+|--|--|--|--|--
+| :brazil: | [Conductor](http://www.conductor.com.br/) | Java | No | [Code →](https://github.com/devconductor/desafio2)
+| :brazil: | [Conductor](http://www.conductor.com.br/) | Java | No | [Code →](https://github.com/devconductor/desafio-arquivo)
+| :brazil: | [Olist](https://olist.com/) | Python, Elixir or Go | Yes |[Code →](https://github.com/olist/work-at-olist)
 
 
 
