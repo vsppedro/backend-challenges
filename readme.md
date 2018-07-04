@@ -18,8 +18,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Olist](https://olist.com/) | Python, Elixir or Go | Yes |[Code →](https://github.com/olist/work-at-olist)
 | :us: | [Toggl](https://toggl.com/) | Go and SQL | Yes |[Exam →](https://app.hundred5.com/MZ990J21Y7KL5739F383)
 
-https://app.hundred5.com/MZ990J21Y7KL5739F383
-
 ## License
 
 [MIT](/license) &copy; Pedro Paiva
