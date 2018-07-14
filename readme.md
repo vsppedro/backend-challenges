@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/github/license/VSPPedro/backend-challenges.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/VSPPedro/backend-challenges.svg)](https://github.com/VSPPedro/backend-challenges/graphs/contributors)
 
-The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
+The main objective of this repository is to test your knowledge using real jobs challenge. :smiley_cat:
 
 Follows some playful (just open-source! :warning:) challenges of jobs.
 
